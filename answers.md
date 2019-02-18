@@ -4,7 +4,7 @@
  Answers for Assignment 8: Scheduling*
 
 #### Answer 1
-  | needs 30 Quanta to complete
+  | needs 30 Quanta to complete|
   |---|---|---|---|---|
   |  Run  | 1  |  2 | 3 | 4 | 5 |
   | Quanta | 1  | 2  |  4 |  8 | 15 |
