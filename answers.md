@@ -5,11 +5,11 @@
  Answers for Assignment 8: Scheduling*
 
 #### Answer 1
-  | |
-  |---|---|---|---|---|
-  |  Run  | 1  |  2 | 3 | 4 | 5 |
-  | Quanta | 1  | 2  |  4 |  8 | 15 |
-  |  Acc | 1  | 3  | 7  | 15  | 30 |
+  | | | | | | |
+|-|-|-|-|-|-|
+|Run| 1 | 2 | 3 | 4 | 5 |
+| Quanta | 1 | 2 | 4 | 8 | 15 |
+|Acc| 1 | 3 | 7 | 15 | 30|
 
     At run 5 the acc reaches a value above 30, wich tells us the process has to be swapped 5 times
     before it runs at all.
